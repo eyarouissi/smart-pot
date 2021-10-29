@@ -1,4 +1,4 @@
-# Flask Forms
+# Flask app
 
 This is a very basic Flask application using two routes and an interactive form. It illustrates how to use [Flask-WTF](https://flask-wtf.readthedocs.io/en/stable/) and [Flask-Bootstrap](https://pythonhosted.org/Flask-Bootstrap/index.html) in a Flask app.
 
